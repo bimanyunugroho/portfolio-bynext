@@ -2,6 +2,8 @@ PORTFOLIO BY NEXT
 
 - next js
 - tailwindcss
+- react social icons
+- framer motion
 
 WARNA YANG SAYA GUNAKAN
  - #17181D
